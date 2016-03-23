@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: e7da7a308c0b94db4902d579d05dea3f
+timeCreated: 1458743172
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000
+  assetHash:
+    serializedVersion: 2
+    Hash: e265c0452e13a5c803747364523488e4
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 10.6216345, y: 5.6125464, z: -6.6101847}
+      lookAt: {x: 8500.337, y: -9742.353, z: 19923.654}
+      up: {x: 0.16081475, y: 0.9119284, z: 0.37752506}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 100
+    100002: 120
+    100004: 20#3
+    100006: 40
+    100008: 60
+    100010: 80
+    100012: A#2
+    100014: //RootNode
+    100016: big spoke
+    100018: big spoke 1
+    100020: big spoke 10
+    100022: big spoke 11
+    100024: big spoke 2
+    100026: big spoke 3
+    100028: big spoke 4
+    100030: big spoke 5
+    100032: big spoke 6
+    100034: big spoke 7
+    100036: big spoke 8
+    100038: big spoke 9
+    100040: business05#1
+    100042: Component#1
+    100044: Component#2
+    100046: Component#3
+    100048: Cruiser
+    100050: Cruiser#1
+    100052: Flag_Quarter
+    100054: Flag_Quarter 1
+    100056: Flag_Quarter 2
+    100058: Flag_Quarter 3
+    100060: Flag_Ropes
+    100062: Flag_USA_High-Polygon
+    100064: Group 113
+    100066: Group 119
+    100068: Group 125
+    100070: Group 131
+    100072: Group 137
+    100074: Group 139
+    100076: Group 141
+    100078: Group 15
+    100080: Group 167
+    100082: Group 169
+    100084: Group 17
+    100086: Group 37
+    100088: Group 4
+    100090: Group 53
+    100092: Group 55
+    100094: Group 57
+    100096: Group 59
+    100098: Group 6
+    100100: Group 77
+    100102: Group 81
+    100104: Group 83
+    100106: Group 85
+    100108: Group 89
+    100110: Group 91
+    100112: Group#14
+    100114: Group#14 1
+    100116: Group#14 2
+    100118: Group#14 3
+    100120: Group#26
+    100122: hombre 3d formal people
+    100124: Image 12
+    100126: Image 13
+    100128: K#3
+    100130: K#4
+    100132: Knocker or door grip
+    100134: Knocker or door grip 1
+    100136: L#2
+    100138: Lima bean pool
+    100140: Mailbox
+    100142: pedal
+    100144: pedal 1
+    100146: R#1
+    100148: Radio Flyer Retro Tricycle
+    100150: red cover
+    100152: S#5
+    100154: skpADB
+    100156: Skylark#1
+    100158: Skylark#1 1
+    100160: Skylark#1 2
+    100162: Skylark#1 3
+    100164: SKylark#2
+    100166: step
+    100168: step 1
+    100170: step 2
+    100172: step 2 1
+    100174: step 3
+    100176: step 4
+    100178: tassek
+    100180: tassek 1
+    100182: US flag on pole
+    100184: Y#2
+    100186: ZL - 98-53
+    100188: ZL - 98-53 1
+    400000: 100
+    400002: 120
+    400004: 20#3
+    400006: 40
+    400008: 60
+    400010: 80
+    400012: A#2
+    400014: //RootNode
+    400016: big spoke
+    400018: big spoke 1
+    400020: big spoke 10
+    400022: big spoke 11
+    400024: big spoke 2
+    400026: big spoke 3
+    400028: big spoke 4
+    400030: big spoke 5
+    400032: big spoke 6
+    400034: big spoke 7
+    400036: big spoke 8
+    400038: big spoke 9
+    400040: business05#1
+    400042: Component#1
+    400044: Component#2
+    400046: Component#3
+    400048: Cruiser
+    400050: Cruiser#1
+    400052: Flag_Quarter
+    400054: Flag_Quarter 1
+    400056: Flag_Quarter 2
+    400058: Flag_Quarter 3
+    400060: Flag_Ropes
+    400062: Flag_USA_High-Polygon
+    400064: Group 113
+    400066: Group 119
+    400068: Group 125
+    400070: Group 131
+    400072: Group 137
+    400074: Group 139
+    400076: Group 141
+    400078: Group 15
+    400080: Group 167
+    400082: Group 169
+    400084: Group 17
+    400086: Group 37
+    400088: Group 4
+    400090: Group 53
+    400092: Group 55
+    400094: Group 57
+    400096: Group 59
+    400098: Group 6
+    400100: Group 77
+    400102: Group 81
+    400104: Group 83
+    400106: Group 85
+    400108: Group 89
+    400110: Group 91
+    400112: Group#14
+    400114: Group#14 1
+    400116: Group#14 2
+    400118: Group#14 3
+    400120: Group#26
+    400122: hombre 3d formal people
+    400124: Image 12
+    400126: Image 13
+    400128: K#3
+    400130: K#4
+    400132: Knocker or door grip
+    400134: Knocker or door grip 1
+    400136: L#2
+    400138: Lima bean pool
+    400140: Mailbox
+    400142: pedal
+    400144: pedal 1
+    400146: R#1
+    400148: Radio Flyer Retro Tricycle
+    400150: red cover
+    400152: S#5
+    400154: skpADB
+    400156: Skylark#1
+    400158: Skylark#1 1
+    400160: Skylark#1 2
+    400162: Skylark#1 3
+    400164: SKylark#2
+    400166: step
+    400168: step 1
+    400170: step 2
+    400172: step 2 1
+    400174: step 3
+    400176: step 4
+    400178: tassek
+    400180: tassek 1
+    400182: US flag on pole
+    400184: Y#2
+    400186: ZL - 98-53
+    400188: ZL - 98-53 1
+    2300000: 100
+    2300002: 120
+    2300004: 20#3
+    2300006: 40
+    2300008: 60
+    2300010: 80
+    2300012: A#2
+    2300014: big spoke
+    2300016: big spoke 1
+    2300018: big spoke 10
+    2300020: big spoke 11
+    2300022: big spoke 2
+    2300024: big spoke 3
+    2300026: big spoke 4
+    2300028: big spoke 5
+    2300030: big spoke 6
+    2300032: big spoke 7
+    2300034: big spoke 8
+    2300036: big spoke 9
+    2300038: business05#1
+    2300040: Component#1
+    2300042: Component#2
+    2300044: Component#3
+    2300046: Cruiser
+    2300048: Cruiser#1
+    2300050: Flag_Quarter
+    2300052: Flag_Quarter 1
+    2300054: Flag_Quarter 2
+    2300056: Flag_Quarter 3
+    2300058: Flag_USA_High-Polygon
+    2300060: Group 113
+    2300062: Group 119
+    2300064: Group 125
+    2300066: Group 131
+    2300068: Group 137
+    2300070: Group 139
+    2300072: Group 141
+    2300074: Group 15
+    2300076: Group 167
+    2300078: Group 169
+    2300080: Group 17
+    2300082: Group 37
+    2300084: Group 4
+    2300086: Group 53
+    2300088: Group 55
+    2300090: Group 57
+    2300092: Group 59
+    2300094: Group 6
+    2300096: Group 77
+    2300098: Group 81
+    2300100: Group 83
+    2300102: Group 85
+    2300104: Group 89
+    2300106: Group 91
+    2300108: Group#14
+    2300110: Group#14 1
+    2300112: Group#14 2
+    2300114: Group#14 3
+    2300116: Group#26
+    2300118: Image 12
+    2300120: Image 13
+    2300122: K#3
+    2300124: K#4
+    2300126: L#2
+    2300128: Lima bean pool
+    2300130: Mailbox
+    2300132: pedal
+    2300134: pedal 1
+    2300136: R#1
+    2300138: Radio Flyer Retro Tricycle
+    2300140: red cover
+    2300142: S#5
+    2300144: Skylark#1
+    2300146: Skylark#1 1
+    2300148: Skylark#1 2
+    2300150: Skylark#1 3
+    2300152: SKylark#2
+    2300154: step
+    2300156: step 1
+    2300158: step 2
+    2300160: step 2 1
+    2300162: step 3
+    2300164: step 4
+    2300166: tassek
+    2300168: tassek 1
+    2300170: Y#2
+    2300172: ZL - 98-53
+    2300174: ZL - 98-53 1
+    3300000: 100
+    3300002: 120
+    3300004: 20#3
+    3300006: 40
+    3300008: 60
+    3300010: 80
+    3300012: A#2
+    3300014: big spoke
+    3300016: big spoke 1
+    3300018: big spoke 10
+    3300020: big spoke 11
+    3300022: big spoke 2
+    3300024: big spoke 3
+    3300026: big spoke 4
+    3300028: big spoke 5
+    3300030: big spoke 6
+    3300032: big spoke 7
+    3300034: big spoke 8
+    3300036: big spoke 9
+    3300038: business05#1
+    3300040: Component#1
+    3300042: Component#2
+    3300044: Component#3
+    3300046: Cruiser
+    3300048: Cruiser#1
+    3300050: Flag_Quarter
+    3300052: Flag_Quarter 1
+    3300054: Flag_Quarter 2
+    3300056: Flag_Quarter 3
+    3300058: Flag_USA_High-Polygon
+    3300060: Group 113
+    3300062: Group 119
+    3300064: Group 125
+    3300066: Group 131
+    3300068: Group 137
+    3300070: Group 139
+    3300072: Group 141
+    3300074: Group 15
+    3300076: Group 167
+    3300078: Group 169
+    3300080: Group 17
+    3300082: Group 37
+    3300084: Group 4
+    3300086: Group 53
+    3300088: Group 55
+    3300090: Group 57
+    3300092: Group 59
+    3300094: Group 6
+    3300096: Group 77
+    3300098: Group 81
+    3300100: Group 83
+    3300102: Group 85
+    3300104: Group 89
+    3300106: Group 91
+    3300108: Group#14
+    3300110: Group#14 1
+    3300112: Group#14 2
+    3300114: Group#14 3
+    3300116: Group#26
+    3300118: Image 12
+    3300120: Image 13
+    3300122: K#3
+    3300124: K#4
+    3300126: L#2
+    3300128: Lima bean pool
+    3300130: Mailbox
+    3300132: pedal
+    3300134: pedal 1
+    3300136: R#1
+    3300138: Radio Flyer Retro Tricycle
+    3300140: red cover
+    3300142: S#5
+    3300144: Skylark#1
+    3300146: Skylark#1 1
+    3300148: Skylark#1 2
+    3300150: Skylark#1 3
+    3300152: SKylark#2
+    3300154: step
+    3300156: step 1
+    3300158: step 2
+    3300160: step 2 1
+    3300162: step 3
+    3300164: step 4
+    3300166: tassek
+    3300168: tassek 1
+    3300170: Y#2
+    3300172: ZL - 98-53
+    3300174: ZL - 98-53 1
+    4300000: Mesh Component#1
+    4300002: Mesh Group 4
+    4300004: Mesh Group 6
+    4300006: Mesh Mailbox
+    4300008: Mesh Component#2
+    4300010: Mesh Component#2
+    4300012: Mesh Component#2
+    4300014: Mesh Flag_USA_High-Polygon
+    4300016: Mesh Flag_Quarter
+    4300018: Mesh Flag_Quarter
+    4300020: Mesh business05#1
+    4300022: Mesh Lima bean pool
+    4300024: Mesh Group 37
+    4300026: Mesh step
+    4300028: Mesh step 2
+    4300030: Mesh Group#26
+    4300032: Mesh Group 53
+    4300034: Mesh Group 55
+    4300036: Mesh Group 57
+    4300038: Mesh Group 59
+    4300040: Mesh 120
+    4300042: Mesh 100
+    4300044: Mesh 80
+    4300046: Mesh 60
+    4300048: Mesh 40
+    4300050: Mesh 20#3
+    4300052: Mesh SKylark#2
+    4300054: Mesh Cruiser#1
+    4300056: Mesh Group 77
+    4300058: Mesh ZL - 98-53
+    4300060: Mesh Group 81
+    4300062: Mesh Group 83
+    4300064: Mesh Cruiser
+    4300066: Mesh R#1
+    4300068: Mesh K#3
+    4300070: Mesh Y#2
+    4300072: Mesh Component#3
+    4300074: Mesh K#4
+    4300076: Mesh S#5
+    4300078: Mesh A#2
+    4300080: Mesh L#2
+    4300082: Mesh Group#14
+    4300084: Mesh Group 113
+    4300086: Mesh Skylark#1
+    4300088: Mesh Radio Flyer Retro Tricycle
+    4300090: Mesh Group 137
+    4300092: Mesh Group 139
+    4300094: Mesh Group 141
+    4300096: Mesh big spoke
+    4300098: Mesh Group 167
+    4300100: Mesh Group 169
+    4300102: Mesh red cover
+    4300104: Mesh pedal
+    4300106: Mesh tassek
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

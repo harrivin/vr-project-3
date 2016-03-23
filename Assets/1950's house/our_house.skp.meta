@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 64852dcdd19d94da79e4a042ba06c654
+timeCreated: 1458743201
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f00000030000000310000003200000033000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 977b0752c0614298afdd88704a9069f5
+  longitude: -95.92103215185465
+  latitude: 36.12350100673394
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -33.36861, y: 2.4496899, z: 20.441078}
+      lookAt: {x: -10.421307, y: -0.050747134, z: -6.9633255}
+      up: {x: 0.044802207, y: 0.99756205, z: -0.053504217}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 14.163604, y: 8.678607, z: -13.210724}
+        lookAt: {x: 1.647586, y: 2.2189417, z: 6.8841233}
+        up: {x: -0.13916911, y: 0.9647313, z: 0.22344026}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Home
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Door_RHRev3-0x6-8
+    100002: Door_RHRev3-0x6-8#1
+    100004: Door_RHRev3-0x6-8#2
+    100006: DoorKnob
+    100008: DoorKnob 1
+    100010: DoorKnob 2
+    100012: DoorKnob 3
+    100014: DoorKnob 4
+    100016: DoorKnob 5
+    100018: FlushDoor36
+    100020: FlushDoor36 1
+    100022: FlushDoor36#1
+    100024: Google Earth Snapshot
+    100026: //RootNode
+    100028: sketchup-download2
+    100030: sketchup-download2#1
+    100032: sketchup-download3
+    100034: Window_Slider48x48
+    100036: Window_Slider48x48 1
+    100038: Window_Slider48x48 2
+    100040: Window_Slider48x48 3
+    100042: Window_Slider48x48#1
+    100044: Window_Slider48x48#1 1
+    400000: Door_RHRev3-0x6-8
+    400002: Door_RHRev3-0x6-8#1
+    400004: Door_RHRev3-0x6-8#2
+    400006: DoorKnob
+    400008: DoorKnob 1
+    400010: DoorKnob 2
+    400012: DoorKnob 3
+    400014: DoorKnob 4
+    400016: DoorKnob 5
+    400018: FlushDoor36
+    400020: FlushDoor36 1
+    400022: FlushDoor36#1
+    400024: Google Earth Snapshot
+    400026: //RootNode
+    400028: sketchup-download2
+    400030: sketchup-download2#1
+    400032: sketchup-download3
+    400034: Window_Slider48x48
+    400036: Window_Slider48x48 1
+    400038: Window_Slider48x48 2
+    400040: Window_Slider48x48 3
+    400042: Window_Slider48x48#1
+    400044: Window_Slider48x48#1 1
+    2300000: Door_RHRev3-0x6-8
+    2300002: Door_RHRev3-0x6-8#1
+    2300004: Door_RHRev3-0x6-8#2
+    2300006: DoorKnob
+    2300008: DoorKnob 1
+    2300010: DoorKnob 2
+    2300012: DoorKnob 3
+    2300014: DoorKnob 4
+    2300016: DoorKnob 5
+    2300018: FlushDoor36
+    2300020: FlushDoor36 1
+    2300022: FlushDoor36#1
+    2300024: Google Earth Snapshot
+    2300026: //RootNode
+    2300028: sketchup-download2
+    2300030: sketchup-download2#1
+    2300032: sketchup-download3
+    2300034: Window_Slider48x48
+    2300036: Window_Slider48x48 1
+    2300038: Window_Slider48x48 2
+    2300040: Window_Slider48x48 3
+    2300042: Window_Slider48x48#1
+    2300044: Window_Slider48x48#1 1
+    3300000: Door_RHRev3-0x6-8
+    3300002: Door_RHRev3-0x6-8#1
+    3300004: Door_RHRev3-0x6-8#2
+    3300006: DoorKnob
+    3300008: DoorKnob 1
+    3300010: DoorKnob 2
+    3300012: DoorKnob 3
+    3300014: DoorKnob 4
+    3300016: DoorKnob 5
+    3300018: FlushDoor36
+    3300020: FlushDoor36 1
+    3300022: FlushDoor36#1
+    3300024: Google Earth Snapshot
+    3300026: //RootNode
+    3300028: sketchup-download2
+    3300030: sketchup-download2#1
+    3300032: sketchup-download3
+    3300034: Window_Slider48x48
+    3300036: Window_Slider48x48 1
+    3300038: Window_Slider48x48 2
+    3300040: Window_Slider48x48 3
+    3300042: Window_Slider48x48#1
+    3300044: Window_Slider48x48#1 1
+    4300000: Mesh our_house
+    4300002: Mesh Google Earth Snapshot
+    4300004: Mesh Door_RHRev3-0x6-8
+    4300006: Mesh FlushDoor36
+    4300008: Mesh DoorKnob
+    4300010: Mesh Window_Slider48x48
+    4300012: Mesh Door_RHRev3-0x6-8#1
+    4300014: Mesh Door_RHRev3-0x6-8#2
+    4300016: Mesh FlushDoor36#1
+    4300018: Mesh Window_Slider48x48#1
+    4300020: Mesh sketchup-download2
+    4300022: Mesh sketchup-download3
+    4300024: Mesh sketchup-download2#1
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
