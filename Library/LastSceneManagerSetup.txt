@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/harrivin_with garage.unity
+- path: Assets/VR_Test.unity
   isLoaded: 1
   isActive: 1
