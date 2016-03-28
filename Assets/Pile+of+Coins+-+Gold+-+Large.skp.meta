@@ -1,0 +1,816 @@
+fileFormatVersion: 2
+guid: de5eac6e586674f0d85b9f6057e67942
+timeCreated: 1458863409
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f01000060010000610100006201000063010000640100006501000066010000670100006801000069010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 11c8d3f32d6b7cd1bcf5f690b075659d
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.35046256, y: 0.34039754, z: -0.27593282}
+      lookAt: {x: 0.14050272, y: 0.079579204, z: 0.11572991}
+      up: {x: -0.2391498, y: 0.8624323, z: 0.4461142}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Gold Coin
+    100002: Gold Coin 1
+    100004: Gold Coin 10
+    100006: Gold Coin 100
+    100008: Gold Coin 101
+    100010: Gold Coin 102
+    100012: Gold Coin 103
+    100014: Gold Coin 104
+    100016: Gold Coin 105
+    100018: Gold Coin 106
+    100020: Gold Coin 107
+    100022: Gold Coin 108
+    100024: Gold Coin 109
+    100026: Gold Coin 11
+    100028: Gold Coin 110
+    100030: Gold Coin 111
+    100032: Gold Coin 112
+    100034: Gold Coin 113
+    100036: Gold Coin 114
+    100038: Gold Coin 115
+    100040: Gold Coin 116
+    100042: Gold Coin 117
+    100044: Gold Coin 118
+    100046: Gold Coin 119
+    100048: Gold Coin 12
+    100050: Gold Coin 120
+    100052: Gold Coin 121
+    100054: Gold Coin 122
+    100056: Gold Coin 123
+    100058: Gold Coin 124
+    100060: Gold Coin 125
+    100062: Gold Coin 126
+    100064: Gold Coin 127
+    100066: Gold Coin 128
+    100068: Gold Coin 129
+    100070: Gold Coin 13
+    100072: Gold Coin 130
+    100074: Gold Coin 131
+    100076: Gold Coin 132
+    100078: Gold Coin 133
+    100080: Gold Coin 134
+    100082: Gold Coin 135
+    100084: Gold Coin 136
+    100086: Gold Coin 137
+    100088: Gold Coin 138
+    100090: Gold Coin 139
+    100092: Gold Coin 14
+    100094: Gold Coin 140
+    100096: Gold Coin 141
+    100098: Gold Coin 142
+    100100: Gold Coin 143
+    100102: Gold Coin 144
+    100104: Gold Coin 145
+    100106: Gold Coin 146
+    100108: Gold Coin 147
+    100110: Gold Coin 148
+    100112: Gold Coin 149
+    100114: Gold Coin 15
+    100116: Gold Coin 150
+    100118: Gold Coin 151
+    100120: Gold Coin 152
+    100122: Gold Coin 153
+    100124: Gold Coin 154
+    100126: Gold Coin 155
+    100128: Gold Coin 156
+    100130: Gold Coin 157
+    100132: Gold Coin 158
+    100134: Gold Coin 159
+    100136: Gold Coin 16
+    100138: Gold Coin 160
+    100140: Gold Coin 161
+    100142: Gold Coin 162
+    100144: Gold Coin 163
+    100146: Gold Coin 164
+    100148: Gold Coin 165
+    100150: Gold Coin 166
+    100152: Gold Coin 167
+    100154: Gold Coin 17
+    100156: Gold Coin 18
+    100158: Gold Coin 19
+    100160: Gold Coin 2
+    100162: Gold Coin 20
+    100164: Gold Coin 21
+    100166: Gold Coin 22
+    100168: Gold Coin 23
+    100170: Gold Coin 24
+    100172: Gold Coin 25
+    100174: Gold Coin 26
+    100176: Gold Coin 27
+    100178: Gold Coin 28
+    100180: Gold Coin 29
+    100182: Gold Coin 3
+    100184: Gold Coin 30
+    100186: Gold Coin 31
+    100188: Gold Coin 32
+    100190: Gold Coin 33
+    100192: Gold Coin 34
+    100194: Gold Coin 35
+    100196: Gold Coin 36
+    100198: Gold Coin 37
+    100200: Gold Coin 38
+    100202: Gold Coin 39
+    100204: Gold Coin 4
+    100206: Gold Coin 40
+    100208: Gold Coin 41
+    100210: Gold Coin 42
+    100212: Gold Coin 43
+    100214: Gold Coin 44
+    100216: Gold Coin 45
+    100218: Gold Coin 46
+    100220: Gold Coin 47
+    100222: Gold Coin 48
+    100224: Gold Coin 49
+    100226: Gold Coin 5
+    100228: Gold Coin 50
+    100230: Gold Coin 51
+    100232: Gold Coin 52
+    100234: Gold Coin 53
+    100236: Gold Coin 54
+    100238: Gold Coin 55
+    100240: Gold Coin 56
+    100242: Gold Coin 57
+    100244: Gold Coin 58
+    100246: Gold Coin 59
+    100248: Gold Coin 6
+    100250: Gold Coin 60
+    100252: Gold Coin 61
+    100254: Gold Coin 62
+    100256: Gold Coin 63
+    100258: Gold Coin 64
+    100260: Gold Coin 65
+    100262: Gold Coin 66
+    100264: Gold Coin 67
+    100266: Gold Coin 68
+    100268: Gold Coin 69
+    100270: Gold Coin 7
+    100272: Gold Coin 70
+    100274: Gold Coin 71
+    100276: Gold Coin 72
+    100278: Gold Coin 73
+    100280: Gold Coin 74
+    100282: Gold Coin 75
+    100284: Gold Coin 76
+    100286: Gold Coin 77
+    100288: Gold Coin 78
+    100290: Gold Coin 79
+    100292: Gold Coin 8
+    100294: Gold Coin 80
+    100296: Gold Coin 81
+    100298: Gold Coin 82
+    100300: Gold Coin 83
+    100302: Gold Coin 84
+    100304: Gold Coin 85
+    100306: Gold Coin 86
+    100308: Gold Coin 87
+    100310: Gold Coin 88
+    100312: Gold Coin 89
+    100314: Gold Coin 9
+    100316: Gold Coin 90
+    100318: Gold Coin 91
+    100320: Gold Coin 92
+    100322: Gold Coin 93
+    100324: Gold Coin 94
+    100326: Gold Coin 95
+    100328: Gold Coin 96
+    100330: Gold Coin 97
+    100332: Gold Coin 98
+    100334: Gold Coin 99
+    100336: //RootNode
+    100338: Stack of Coins - Gold - Small
+    100340: Stack of Coins - Gold - Small 1
+    100342: Stack of Coins - Gold - Small 10
+    100344: Stack of Coins - Gold - Small 11
+    100346: Stack of Coins - Gold - Small 12
+    100348: Stack of Coins - Gold - Small 13
+    100350: Stack of Coins - Gold - Small 14
+    100352: Stack of Coins - Gold - Small 15
+    100354: Stack of Coins - Gold - Small 16
+    100356: Stack of Coins - Gold - Small 17
+    100358: Stack of Coins - Gold - Small 2
+    100360: Stack of Coins - Gold - Small 3
+    100362: Stack of Coins - Gold - Small 4
+    100364: Stack of Coins - Gold - Small 5
+    100366: Stack of Coins - Gold - Small 6
+    100368: Stack of Coins - Gold - Small 7
+    100370: Stack of Coins - Gold - Small 8
+    100372: Stack of Coins - Gold - Small 9
+    100374: Stack of Coins - Gold - Tall
+    100376: Stack of Coins - Gold - Tall 1
+    100378: Stack of Coins - Gold - Tall 2
+    100380: Stack of Coins - Gold - Tall 3
+    100382: Stack of Coins - Gold - Tall 4
+    100384: Stack of Coins - Gold - Tall 5
+    100386: Stack of Coins - Gold - Tall 6
+    400000: Gold Coin
+    400002: Gold Coin 1
+    400004: Gold Coin 10
+    400006: Gold Coin 100
+    400008: Gold Coin 101
+    400010: Gold Coin 102
+    400012: Gold Coin 103
+    400014: Gold Coin 104
+    400016: Gold Coin 105
+    400018: Gold Coin 106
+    400020: Gold Coin 107
+    400022: Gold Coin 108
+    400024: Gold Coin 109
+    400026: Gold Coin 11
+    400028: Gold Coin 110
+    400030: Gold Coin 111
+    400032: Gold Coin 112
+    400034: Gold Coin 113
+    400036: Gold Coin 114
+    400038: Gold Coin 115
+    400040: Gold Coin 116
+    400042: Gold Coin 117
+    400044: Gold Coin 118
+    400046: Gold Coin 119
+    400048: Gold Coin 12
+    400050: Gold Coin 120
+    400052: Gold Coin 121
+    400054: Gold Coin 122
+    400056: Gold Coin 123
+    400058: Gold Coin 124
+    400060: Gold Coin 125
+    400062: Gold Coin 126
+    400064: Gold Coin 127
+    400066: Gold Coin 128
+    400068: Gold Coin 129
+    400070: Gold Coin 13
+    400072: Gold Coin 130
+    400074: Gold Coin 131
+    400076: Gold Coin 132
+    400078: Gold Coin 133
+    400080: Gold Coin 134
+    400082: Gold Coin 135
+    400084: Gold Coin 136
+    400086: Gold Coin 137
+    400088: Gold Coin 138
+    400090: Gold Coin 139
+    400092: Gold Coin 14
+    400094: Gold Coin 140
+    400096: Gold Coin 141
+    400098: Gold Coin 142
+    400100: Gold Coin 143
+    400102: Gold Coin 144
+    400104: Gold Coin 145
+    400106: Gold Coin 146
+    400108: Gold Coin 147
+    400110: Gold Coin 148
+    400112: Gold Coin 149
+    400114: Gold Coin 15
+    400116: Gold Coin 150
+    400118: Gold Coin 151
+    400120: Gold Coin 152
+    400122: Gold Coin 153
+    400124: Gold Coin 154
+    400126: Gold Coin 155
+    400128: Gold Coin 156
+    400130: Gold Coin 157
+    400132: Gold Coin 158
+    400134: Gold Coin 159
+    400136: Gold Coin 16
+    400138: Gold Coin 160
+    400140: Gold Coin 161
+    400142: Gold Coin 162
+    400144: Gold Coin 163
+    400146: Gold Coin 164
+    400148: Gold Coin 165
+    400150: Gold Coin 166
+    400152: Gold Coin 167
+    400154: Gold Coin 17
+    400156: Gold Coin 18
+    400158: Gold Coin 19
+    400160: Gold Coin 2
+    400162: Gold Coin 20
+    400164: Gold Coin 21
+    400166: Gold Coin 22
+    400168: Gold Coin 23
+    400170: Gold Coin 24
+    400172: Gold Coin 25
+    400174: Gold Coin 26
+    400176: Gold Coin 27
+    400178: Gold Coin 28
+    400180: Gold Coin 29
+    400182: Gold Coin 3
+    400184: Gold Coin 30
+    400186: Gold Coin 31
+    400188: Gold Coin 32
+    400190: Gold Coin 33
+    400192: Gold Coin 34
+    400194: Gold Coin 35
+    400196: Gold Coin 36
+    400198: Gold Coin 37
+    400200: Gold Coin 38
+    400202: Gold Coin 39
+    400204: Gold Coin 4
+    400206: Gold Coin 40
+    400208: Gold Coin 41
+    400210: Gold Coin 42
+    400212: Gold Coin 43
+    400214: Gold Coin 44
+    400216: Gold Coin 45
+    400218: Gold Coin 46
+    400220: Gold Coin 47
+    400222: Gold Coin 48
+    400224: Gold Coin 49
+    400226: Gold Coin 5
+    400228: Gold Coin 50
+    400230: Gold Coin 51
+    400232: Gold Coin 52
+    400234: Gold Coin 53
+    400236: Gold Coin 54
+    400238: Gold Coin 55
+    400240: Gold Coin 56
+    400242: Gold Coin 57
+    400244: Gold Coin 58
+    400246: Gold Coin 59
+    400248: Gold Coin 6
+    400250: Gold Coin 60
+    400252: Gold Coin 61
+    400254: Gold Coin 62
+    400256: Gold Coin 63
+    400258: Gold Coin 64
+    400260: Gold Coin 65
+    400262: Gold Coin 66
+    400264: Gold Coin 67
+    400266: Gold Coin 68
+    400268: Gold Coin 69
+    400270: Gold Coin 7
+    400272: Gold Coin 70
+    400274: Gold Coin 71
+    400276: Gold Coin 72
+    400278: Gold Coin 73
+    400280: Gold Coin 74
+    400282: Gold Coin 75
+    400284: Gold Coin 76
+    400286: Gold Coin 77
+    400288: Gold Coin 78
+    400290: Gold Coin 79
+    400292: Gold Coin 8
+    400294: Gold Coin 80
+    400296: Gold Coin 81
+    400298: Gold Coin 82
+    400300: Gold Coin 83
+    400302: Gold Coin 84
+    400304: Gold Coin 85
+    400306: Gold Coin 86
+    400308: Gold Coin 87
+    400310: Gold Coin 88
+    400312: Gold Coin 89
+    400314: Gold Coin 9
+    400316: Gold Coin 90
+    400318: Gold Coin 91
+    400320: Gold Coin 92
+    400322: Gold Coin 93
+    400324: Gold Coin 94
+    400326: Gold Coin 95
+    400328: Gold Coin 96
+    400330: Gold Coin 97
+    400332: Gold Coin 98
+    400334: Gold Coin 99
+    400336: //RootNode
+    400338: Stack of Coins - Gold - Small
+    400340: Stack of Coins - Gold - Small 1
+    400342: Stack of Coins - Gold - Small 10
+    400344: Stack of Coins - Gold - Small 11
+    400346: Stack of Coins - Gold - Small 12
+    400348: Stack of Coins - Gold - Small 13
+    400350: Stack of Coins - Gold - Small 14
+    400352: Stack of Coins - Gold - Small 15
+    400354: Stack of Coins - Gold - Small 16
+    400356: Stack of Coins - Gold - Small 17
+    400358: Stack of Coins - Gold - Small 2
+    400360: Stack of Coins - Gold - Small 3
+    400362: Stack of Coins - Gold - Small 4
+    400364: Stack of Coins - Gold - Small 5
+    400366: Stack of Coins - Gold - Small 6
+    400368: Stack of Coins - Gold - Small 7
+    400370: Stack of Coins - Gold - Small 8
+    400372: Stack of Coins - Gold - Small 9
+    400374: Stack of Coins - Gold - Tall
+    400376: Stack of Coins - Gold - Tall 1
+    400378: Stack of Coins - Gold - Tall 2
+    400380: Stack of Coins - Gold - Tall 3
+    400382: Stack of Coins - Gold - Tall 4
+    400384: Stack of Coins - Gold - Tall 5
+    400386: Stack of Coins - Gold - Tall 6
+    2300000: Gold Coin
+    2300002: Gold Coin 1
+    2300004: Gold Coin 10
+    2300006: Gold Coin 100
+    2300008: Gold Coin 101
+    2300010: Gold Coin 102
+    2300012: Gold Coin 103
+    2300014: Gold Coin 104
+    2300016: Gold Coin 105
+    2300018: Gold Coin 106
+    2300020: Gold Coin 107
+    2300022: Gold Coin 108
+    2300024: Gold Coin 109
+    2300026: Gold Coin 11
+    2300028: Gold Coin 110
+    2300030: Gold Coin 111
+    2300032: Gold Coin 112
+    2300034: Gold Coin 113
+    2300036: Gold Coin 114
+    2300038: Gold Coin 115
+    2300040: Gold Coin 116
+    2300042: Gold Coin 117
+    2300044: Gold Coin 118
+    2300046: Gold Coin 119
+    2300048: Gold Coin 12
+    2300050: Gold Coin 120
+    2300052: Gold Coin 121
+    2300054: Gold Coin 122
+    2300056: Gold Coin 123
+    2300058: Gold Coin 124
+    2300060: Gold Coin 125
+    2300062: Gold Coin 126
+    2300064: Gold Coin 127
+    2300066: Gold Coin 128
+    2300068: Gold Coin 129
+    2300070: Gold Coin 13
+    2300072: Gold Coin 130
+    2300074: Gold Coin 131
+    2300076: Gold Coin 132
+    2300078: Gold Coin 133
+    2300080: Gold Coin 134
+    2300082: Gold Coin 135
+    2300084: Gold Coin 136
+    2300086: Gold Coin 137
+    2300088: Gold Coin 138
+    2300090: Gold Coin 139
+    2300092: Gold Coin 14
+    2300094: Gold Coin 140
+    2300096: Gold Coin 141
+    2300098: Gold Coin 142
+    2300100: Gold Coin 143
+    2300102: Gold Coin 144
+    2300104: Gold Coin 145
+    2300106: Gold Coin 146
+    2300108: Gold Coin 147
+    2300110: Gold Coin 148
+    2300112: Gold Coin 149
+    2300114: Gold Coin 15
+    2300116: Gold Coin 150
+    2300118: Gold Coin 151
+    2300120: Gold Coin 152
+    2300122: Gold Coin 153
+    2300124: Gold Coin 154
+    2300126: Gold Coin 155
+    2300128: Gold Coin 156
+    2300130: Gold Coin 157
+    2300132: Gold Coin 158
+    2300134: Gold Coin 159
+    2300136: Gold Coin 16
+    2300138: Gold Coin 160
+    2300140: Gold Coin 161
+    2300142: Gold Coin 162
+    2300144: Gold Coin 163
+    2300146: Gold Coin 164
+    2300148: Gold Coin 165
+    2300150: Gold Coin 166
+    2300152: Gold Coin 167
+    2300154: Gold Coin 17
+    2300156: Gold Coin 18
+    2300158: Gold Coin 19
+    2300160: Gold Coin 2
+    2300162: Gold Coin 20
+    2300164: Gold Coin 21
+    2300166: Gold Coin 22
+    2300168: Gold Coin 23
+    2300170: Gold Coin 24
+    2300172: Gold Coin 25
+    2300174: Gold Coin 26
+    2300176: Gold Coin 27
+    2300178: Gold Coin 28
+    2300180: Gold Coin 29
+    2300182: Gold Coin 3
+    2300184: Gold Coin 30
+    2300186: Gold Coin 31
+    2300188: Gold Coin 32
+    2300190: Gold Coin 33
+    2300192: Gold Coin 34
+    2300194: Gold Coin 35
+    2300196: Gold Coin 36
+    2300198: Gold Coin 37
+    2300200: Gold Coin 38
+    2300202: Gold Coin 39
+    2300204: Gold Coin 4
+    2300206: Gold Coin 40
+    2300208: Gold Coin 41
+    2300210: Gold Coin 42
+    2300212: Gold Coin 43
+    2300214: Gold Coin 44
+    2300216: Gold Coin 45
+    2300218: Gold Coin 46
+    2300220: Gold Coin 47
+    2300222: Gold Coin 48
+    2300224: Gold Coin 49
+    2300226: Gold Coin 5
+    2300228: Gold Coin 50
+    2300230: Gold Coin 51
+    2300232: Gold Coin 52
+    2300234: Gold Coin 53
+    2300236: Gold Coin 54
+    2300238: Gold Coin 55
+    2300240: Gold Coin 56
+    2300242: Gold Coin 57
+    2300244: Gold Coin 58
+    2300246: Gold Coin 59
+    2300248: Gold Coin 6
+    2300250: Gold Coin 60
+    2300252: Gold Coin 61
+    2300254: Gold Coin 62
+    2300256: Gold Coin 63
+    2300258: Gold Coin 64
+    2300260: Gold Coin 65
+    2300262: Gold Coin 66
+    2300264: Gold Coin 67
+    2300266: Gold Coin 68
+    2300268: Gold Coin 69
+    2300270: Gold Coin 7
+    2300272: Gold Coin 70
+    2300274: Gold Coin 71
+    2300276: Gold Coin 72
+    2300278: Gold Coin 73
+    2300280: Gold Coin 74
+    2300282: Gold Coin 75
+    2300284: Gold Coin 76
+    2300286: Gold Coin 77
+    2300288: Gold Coin 78
+    2300290: Gold Coin 79
+    2300292: Gold Coin 8
+    2300294: Gold Coin 80
+    2300296: Gold Coin 81
+    2300298: Gold Coin 82
+    2300300: Gold Coin 83
+    2300302: Gold Coin 84
+    2300304: Gold Coin 85
+    2300306: Gold Coin 86
+    2300308: Gold Coin 87
+    2300310: Gold Coin 88
+    2300312: Gold Coin 89
+    2300314: Gold Coin 9
+    2300316: Gold Coin 90
+    2300318: Gold Coin 91
+    2300320: Gold Coin 92
+    2300322: Gold Coin 93
+    2300324: Gold Coin 94
+    2300326: Gold Coin 95
+    2300328: Gold Coin 96
+    2300330: Gold Coin 97
+    2300332: Gold Coin 98
+    2300334: Gold Coin 99
+    3300000: Gold Coin
+    3300002: Gold Coin 1
+    3300004: Gold Coin 10
+    3300006: Gold Coin 100
+    3300008: Gold Coin 101
+    3300010: Gold Coin 102
+    3300012: Gold Coin 103
+    3300014: Gold Coin 104
+    3300016: Gold Coin 105
+    3300018: Gold Coin 106
+    3300020: Gold Coin 107
+    3300022: Gold Coin 108
+    3300024: Gold Coin 109
+    3300026: Gold Coin 11
+    3300028: Gold Coin 110
+    3300030: Gold Coin 111
+    3300032: Gold Coin 112
+    3300034: Gold Coin 113
+    3300036: Gold Coin 114
+    3300038: Gold Coin 115
+    3300040: Gold Coin 116
+    3300042: Gold Coin 117
+    3300044: Gold Coin 118
+    3300046: Gold Coin 119
+    3300048: Gold Coin 12
+    3300050: Gold Coin 120
+    3300052: Gold Coin 121
+    3300054: Gold Coin 122
+    3300056: Gold Coin 123
+    3300058: Gold Coin 124
+    3300060: Gold Coin 125
+    3300062: Gold Coin 126
+    3300064: Gold Coin 127
+    3300066: Gold Coin 128
+    3300068: Gold Coin 129
+    3300070: Gold Coin 13
+    3300072: Gold Coin 130
+    3300074: Gold Coin 131
+    3300076: Gold Coin 132
+    3300078: Gold Coin 133
+    3300080: Gold Coin 134
+    3300082: Gold Coin 135
+    3300084: Gold Coin 136
+    3300086: Gold Coin 137
+    3300088: Gold Coin 138
+    3300090: Gold Coin 139
+    3300092: Gold Coin 14
+    3300094: Gold Coin 140
+    3300096: Gold Coin 141
+    3300098: Gold Coin 142
+    3300100: Gold Coin 143
+    3300102: Gold Coin 144
+    3300104: Gold Coin 145
+    3300106: Gold Coin 146
+    3300108: Gold Coin 147
+    3300110: Gold Coin 148
+    3300112: Gold Coin 149
+    3300114: Gold Coin 15
+    3300116: Gold Coin 150
+    3300118: Gold Coin 151
+    3300120: Gold Coin 152
+    3300122: Gold Coin 153
+    3300124: Gold Coin 154
+    3300126: Gold Coin 155
+    3300128: Gold Coin 156
+    3300130: Gold Coin 157
+    3300132: Gold Coin 158
+    3300134: Gold Coin 159
+    3300136: Gold Coin 16
+    3300138: Gold Coin 160
+    3300140: Gold Coin 161
+    3300142: Gold Coin 162
+    3300144: Gold Coin 163
+    3300146: Gold Coin 164
+    3300148: Gold Coin 165
+    3300150: Gold Coin 166
+    3300152: Gold Coin 167
+    3300154: Gold Coin 17
+    3300156: Gold Coin 18
+    3300158: Gold Coin 19
+    3300160: Gold Coin 2
+    3300162: Gold Coin 20
+    3300164: Gold Coin 21
+    3300166: Gold Coin 22
+    3300168: Gold Coin 23
+    3300170: Gold Coin 24
+    3300172: Gold Coin 25
+    3300174: Gold Coin 26
+    3300176: Gold Coin 27
+    3300178: Gold Coin 28
+    3300180: Gold Coin 29
+    3300182: Gold Coin 3
+    3300184: Gold Coin 30
+    3300186: Gold Coin 31
+    3300188: Gold Coin 32
+    3300190: Gold Coin 33
+    3300192: Gold Coin 34
+    3300194: Gold Coin 35
+    3300196: Gold Coin 36
+    3300198: Gold Coin 37
+    3300200: Gold Coin 38
+    3300202: Gold Coin 39
+    3300204: Gold Coin 4
+    3300206: Gold Coin 40
+    3300208: Gold Coin 41
+    3300210: Gold Coin 42
+    3300212: Gold Coin 43
+    3300214: Gold Coin 44
+    3300216: Gold Coin 45
+    3300218: Gold Coin 46
+    3300220: Gold Coin 47
+    3300222: Gold Coin 48
+    3300224: Gold Coin 49
+    3300226: Gold Coin 5
+    3300228: Gold Coin 50
+    3300230: Gold Coin 51
+    3300232: Gold Coin 52
+    3300234: Gold Coin 53
+    3300236: Gold Coin 54
+    3300238: Gold Coin 55
+    3300240: Gold Coin 56
+    3300242: Gold Coin 57
+    3300244: Gold Coin 58
+    3300246: Gold Coin 59
+    3300248: Gold Coin 6
+    3300250: Gold Coin 60
+    3300252: Gold Coin 61
+    3300254: Gold Coin 62
+    3300256: Gold Coin 63
+    3300258: Gold Coin 64
+    3300260: Gold Coin 65
+    3300262: Gold Coin 66
+    3300264: Gold Coin 67
+    3300266: Gold Coin 68
+    3300268: Gold Coin 69
+    3300270: Gold Coin 7
+    3300272: Gold Coin 70
+    3300274: Gold Coin 71
+    3300276: Gold Coin 72
+    3300278: Gold Coin 73
+    3300280: Gold Coin 74
+    3300282: Gold Coin 75
+    3300284: Gold Coin 76
+    3300286: Gold Coin 77
+    3300288: Gold Coin 78
+    3300290: Gold Coin 79
+    3300292: Gold Coin 8
+    3300294: Gold Coin 80
+    3300296: Gold Coin 81
+    3300298: Gold Coin 82
+    3300300: Gold Coin 83
+    3300302: Gold Coin 84
+    3300304: Gold Coin 85
+    3300306: Gold Coin 86
+    3300308: Gold Coin 87
+    3300310: Gold Coin 88
+    3300312: Gold Coin 89
+    3300314: Gold Coin 9
+    3300316: Gold Coin 90
+    3300318: Gold Coin 91
+    3300320: Gold Coin 92
+    3300322: Gold Coin 93
+    3300324: Gold Coin 94
+    3300326: Gold Coin 95
+    3300328: Gold Coin 96
+    3300330: Gold Coin 97
+    3300332: Gold Coin 98
+    3300334: Gold Coin 99
+    4300000: Mesh Gold Coin
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

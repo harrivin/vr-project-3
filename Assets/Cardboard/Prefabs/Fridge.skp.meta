@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: c03de4769052c485b8dcd737737a9f1a
+timeCreated: 1458671409
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a000000
+  assetHash:
+    serializedVersion: 2
+    Hash: e738febbdedcbe623b1472499c89f1f2
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 8.351842, y: 1.5998448, z: 0.086000144}
+      lookAt: {x: -5.5373373, y: -3.4372573, z: 19.679344}
+      up: {x: -0.11870748, y: 0.9787062, z: 0.16745959}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Elegant Series
+    100002: //RootNode
+    100004: ICE
+    100006: Image 2
+    100008: Macsong
+    100010: WATER
+    400000: Elegant Series
+    400002: //RootNode
+    400004: ICE
+    400006: Image 2
+    400008: Macsong
+    400010: WATER
+    2300000: Elegant Series
+    2300002: //RootNode
+    2300004: ICE
+    2300006: Image 2
+    2300008: Macsong
+    2300010: WATER
+    3300000: Elegant Series
+    3300002: //RootNode
+    3300004: ICE
+    3300006: Image 2
+    3300008: Macsong
+    3300010: WATER
+    4300000: Mesh Fridge
+    4300002: Mesh Fridge
+    4300004: Mesh Macsong
+    4300006: Mesh Elegant Series
+    4300008: Mesh ICE
+    4300010: Mesh WATER
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
