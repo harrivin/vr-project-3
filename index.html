@@ -92,8 +92,48 @@ Link :- <a href="http://www.census.gov/hhes/www/income/data/historical/people/20
 <h3>
 <a id="quantifying-simulator-sickness" class="anchor" href="#quantifying-simulator-sickness" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Quantifying Simulator Sickness</h3>
 
-<p>We had 6 Men in the age group of 20-25 wear the headset and try out the VR experience(3 VR experience , 3 Intro+Vr Experience + Outro) 
-The Participants were given the Kennedy Simulator Sickness Questionnaire(<a href="http://www.cybersickness.org/data/Post.doc">http://www.cybersickness.org/data/Post.doc</a>) post the VR experience</p>
+<p>We had 6 Men in the age group of 20-25 wear the cardboard and try out the VR experience(3 VR experience , 3 Intro+Vr Experience + Outro) 
+The Participants were given the Kennedy Simulator Sickness Questionnaire(<a href="http://www.cybersickness.org/data/Post.doc">http://www.cybersickness.org/data/Post.doc</a>) post the VR experience in the first scenario and post the Outro in the second scenario</p>
+
+<p>Link to Kennedy Simulator Sickness PDF :- <a href="https://www.dropbox.com/s/zcpqkhbarh2h777/SSQ%20Calculations.pdf?dl=0">https://www.dropbox.com/s/zcpqkhbarh2h777/SSQ%20Calculations.pdf?dl=0</a></p>
+
+<h1>
+<a id="kennedy-ssq-results" class="anchor" href="#kennedy-ssq-results" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Kennedy SSQ Results</h1>
+
+<p>Average of 3 subjects for the VR Experience
+Nausea 60.42
+Oculomotor 37.9
+Disorientation 74.24
+Total 664.2738667</p>
+
+<p>Average of 3 subjects for the Intro + VR Experience + Outro
+Nausea 50.88
+Oculomotor 36.005
+Disorientation 74.24
+Total 619.1445333</p>
+
+<p>The Intro + Vr Experience + Outro had a lower total in the simulator sickness calculation than just the VR Experience.
+This might be due to the fact that the users were better informed about what they would experience in the VR Environment with the help of the intro videos.The preparation in the mindset of the user after watching the intro video must have lead to the lower simulator sickness scores.The users were told about the changes they would see in the scene as they changed over the years.</p>
+
+<p>The user who were just shown the Vr experience expressed shock in seeing the objects change in the environment as they moved the slider to different years.This lead to a higher simulator sickness score. </p>
+
+<h3>
+<a id="how-different-components-of-the-experience-impacted-the-reported-simulator-sickness" class="anchor" href="#how-different-components-of-the-experience-impacted-the-reported-simulator-sickness" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>How different components of the experience impacted the reported simulator sickness?</h3>
+
+<p>1) objects were changed / rendered only in the room the user was in. This was done with the help of colliders, the reduced use of memory by the system to run the environment produced better FPS.</p>
+
+<p>2) The navigation system in the environment is in user coordinates </p>
+
+<p>3) We noticed lower FPS and lag lead to headaches and nausea.To avoid them , to get better FPS and reduce simulator sickness lower build quality settings (good) was used instead of "Excellent".</p>
+
+<h3>
+<a id="identify-how-the-experience-leveraged-concepts-found-in-the-vr-book-sections-chapter-19" class="anchor" href="#identify-how-the-experience-leveraged-concepts-found-in-the-vr-book-sections-chapter-19" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Identify how the experience leveraged concepts found in the VR Book sections Chapter 19.</h3>
+
+<ul>
+<li><p>We reduced vection by limiting the user movement speed and by reducing the complexity of textures used in the scene</p></li>
+<li><p>we have tried to reduce the screen flicker rate that causes motion sickness by using assets of low file size and increase the fps to match the screen refresh rate</p></li>
+<li><p>Avoided using particle systems and have included a skybox to further reduce rendering thread latency</p></li>
+</ul>
 
 <h3>
 <a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Authors and Contributors</h3>
