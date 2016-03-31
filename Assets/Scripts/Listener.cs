@@ -3,8 +3,8 @@ using System.Collections;
 
 public class Listener : MonoBehaviour {
 	public GameObject thisObject;
-	[SerializeField] public float[] yearsInactive;
-
+	[SerializeField] public float[] yearsActive;
+	public float beginningRange, endRange;
 	// Use this for initialization
 	void Start () {
 	
@@ -19,12 +19,20 @@ public class Listener : MonoBehaviour {
 		Debug.Log ("Inside rec message");
 
 		thisObject.SetActive (true);
-		for (int i = 0; i < yearsInactive.Length; i++) {
-			if (year == yearsInactive [i]){
-				Debug.Log ("Setting fridge inactive");
+		if (yearsActive.Length > 0) {
+			for (int i = 0; i < yearsActive.Length; i++) {
+				if (year == yearsActive [i]) {
+					//Debug.Log ("Setting fridge inactive");
+					return;
+				}
+					
+			
+			}
+			//thisObject.SetActive (false);
+		} 
+			if (year < beginningRange || year > endRange) {
 				thisObject.SetActive (false);
 			}
-			
-		}
+
 	}
 }

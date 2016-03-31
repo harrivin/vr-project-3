@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 0b14a55e61f1e4746bc339aed3d9f975
+timeCreated: 1459267093
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000
+  assetHash:
+    serializedVersion: 2
+    Hash: c4d1dbab7a3abbf00d2ced847b9b8c9e
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.2368026, y: 0.43475074, z: -0.8503223}
+      lookAt: {x: 0.21219087, y: 0.23558185, z: 0.22971247}
+      up: {x: -0.0041305204, y: 0.9834267, z: 0.18125929}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Budweiser Bottle
+    100002: Budweiser Bottle 1
+    100004: Budweiser Bottle 2
+    100006: Budweiser Bottle 3
+    100008: Budweiser Bottle 4
+    100010: Budweiser Bottle 5
+    100012: Coca-Cola 12 oz Can
+    100014: Coca-Cola 12 oz Can 1
+    100016: Coca-Cola 12 oz Can 2
+    100018: Coca-Cola 12 oz Can 3
+    100020: Coca-Cola 12 oz Can 4
+    100022: Coca-Cola 12 oz Can 5
+    100024: Coca-Cola 6pk 12 oz
+    100026: Group 1
+    100028: Group 10
+    100030: Group 13
+    100032: Group 16
+    100034: Group 21
+    100036: Group 24
+    100038: Group 27
+    100040: Group 30
+    100042: Group 33
+    100044: Group 36
+    100046: Group 4
+    100048: Group 7
+    100050: //RootNode
+    100052: ntitled
+    100054: Wine Bottle
+    100056: Wine Bottle 1
+    100058: Wine Bottle 2
+    100060: Wine Bottle 3
+    100062: Wine Bottle 4
+    400000: Budweiser Bottle
+    400002: Budweiser Bottle 1
+    400004: Budweiser Bottle 2
+    400006: Budweiser Bottle 3
+    400008: Budweiser Bottle 4
+    400010: Budweiser Bottle 5
+    400012: Coca-Cola 12 oz Can
+    400014: Coca-Cola 12 oz Can 1
+    400016: Coca-Cola 12 oz Can 2
+    400018: Coca-Cola 12 oz Can 3
+    400020: Coca-Cola 12 oz Can 4
+    400022: Coca-Cola 12 oz Can 5
+    400024: Coca-Cola 6pk 12 oz
+    400026: Group 1
+    400028: Group 10
+    400030: Group 13
+    400032: Group 16
+    400034: Group 21
+    400036: Group 24
+    400038: Group 27
+    400040: Group 30
+    400042: Group 33
+    400044: Group 36
+    400046: Group 4
+    400048: Group 7
+    400050: //RootNode
+    400052: ntitled
+    400054: Wine Bottle
+    400056: Wine Bottle 1
+    400058: Wine Bottle 2
+    400060: Wine Bottle 3
+    400062: Wine Bottle 4
+    2300000: Coca-Cola 12 oz Can
+    2300002: Coca-Cola 12 oz Can 1
+    2300004: Coca-Cola 12 oz Can 2
+    2300006: Coca-Cola 12 oz Can 3
+    2300008: Coca-Cola 12 oz Can 4
+    2300010: Coca-Cola 12 oz Can 5
+    2300012: Group 1
+    2300014: Group 10
+    2300016: Group 13
+    2300018: Group 16
+    2300020: Group 21
+    2300022: Group 24
+    2300024: Group 27
+    2300026: Group 30
+    2300028: Group 33
+    2300030: Group 36
+    2300032: Group 4
+    2300034: Group 7
+    2300036: ntitled
+    3300000: Coca-Cola 12 oz Can
+    3300002: Coca-Cola 12 oz Can 1
+    3300004: Coca-Cola 12 oz Can 2
+    3300006: Coca-Cola 12 oz Can 3
+    3300008: Coca-Cola 12 oz Can 4
+    3300010: Coca-Cola 12 oz Can 5
+    3300012: Group 1
+    3300014: Group 10
+    3300016: Group 13
+    3300018: Group 16
+    3300020: Group 21
+    3300022: Group 24
+    3300024: Group 27
+    3300026: Group 30
+    3300028: Group 33
+    3300030: Group 36
+    3300032: Group 4
+    3300034: Group 7
+    3300036: ntitled
+    4300000: Mesh Group 1
+    4300002: Mesh Group 4
+    4300004: Mesh ntitled
+    4300006: Mesh Group 21
+    4300008: Mesh Coca-Cola 12 oz Can
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

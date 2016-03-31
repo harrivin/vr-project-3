@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: ad2634e2ec0e38e42963c7cae9ccfd8e
+timeCreated: 1459231373
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f0000009000000091000000
+  assetHash:
+    serializedVersion: 2
+    Hash: dee3bd3c2f48e1c6b6543305433056be
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -0.20927872, y: 1.6327455, z: -2.9473002}
+      lookAt: {x: 1.3439064, y: 0.63155156, z: -0.16721249}
+      up: {x: 0.14627878, y: 0.95396465, z: 0.26182833}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: coffee maker
+    100002: Coffee Percolator
+    100004: Countertop_Blender
+    100006: Countertop_Coffee_Maker
+    100008: Countertop_Toaster_Curved
+    100010: countertp_blender_half
+    100012: countertp_blender_half 1
+    100014: Dishes_Glass
+    100016: Dishes_Glass 1
+    100018: Dishes_Glass 2
+    100020: Dishes_Glass 3
+    100022: Dishes_Glass 4
+    100024: Dishes_Glass 5
+    100026: glass_quarter
+    100028: glass_quarter 1
+    100030: glass_quarter 10
+    100032: glass_quarter 11
+    100034: glass_quarter 12
+    100036: glass_quarter 13
+    100038: glass_quarter 14
+    100040: glass_quarter 15
+    100042: glass_quarter 16
+    100044: glass_quarter 17
+    100046: glass_quarter 18
+    100048: glass_quarter 19
+    100050: glass_quarter 2
+    100052: glass_quarter 20
+    100054: glass_quarter 21
+    100056: glass_quarter 22
+    100058: glass_quarter 23
+    100060: glass_quarter 3
+    100062: glass_quarter 4
+    100064: glass_quarter 5
+    100066: glass_quarter 6
+    100068: glass_quarter 7
+    100070: glass_quarter 8
+    100072: glass_quarter 9
+    100074: Group 1
+    100076: Group 3
+    100078: Group 30
+    100080: Group 5
+    100082: Group 51
+    100084: Group 53
+    100086: Group 55
+    100088: Group 57
+    100090: Group 59
+    100092: Group 61
+    100094: Group 7
+    100096: Group 72
+    100098: Group 74
+    100100: Group 80
+    100102: Group 9
+    100104: //RootNode
+    100106: Line155
+    100108: Line155 1
+    100110: Line155 2
+    100112: Line155 3
+    100114: Line156
+    100116: Line156 1
+    100118: Plate lg
+    100120: Plate lg 1
+    100122: Plate lg 10
+    100124: Plate lg 11
+    100126: Plate lg 12
+    100128: Plate lg 13
+    100130: Plate lg 14
+    100132: Plate lg 15
+    100134: Plate lg 16
+    100136: Plate lg 17
+    100138: Plate lg 18
+    100140: Plate lg 19
+    100142: Plate lg 2
+    100144: Plate lg 3
+    100146: Plate lg 4
+    100148: Plate lg 5
+    100150: Plate lg 6
+    100152: Plate lg 7
+    100154: Plate lg 8
+    100156: Plate lg 9
+    400000: coffee maker
+    400002: Coffee Percolator
+    400004: Countertop_Blender
+    400006: Countertop_Coffee_Maker
+    400008: Countertop_Toaster_Curved
+    400010: countertp_blender_half
+    400012: countertp_blender_half 1
+    400014: Dishes_Glass
+    400016: Dishes_Glass 1
+    400018: Dishes_Glass 2
+    400020: Dishes_Glass 3
+    400022: Dishes_Glass 4
+    400024: Dishes_Glass 5
+    400026: glass_quarter
+    400028: glass_quarter 1
+    400030: glass_quarter 10
+    400032: glass_quarter 11
+    400034: glass_quarter 12
+    400036: glass_quarter 13
+    400038: glass_quarter 14
+    400040: glass_quarter 15
+    400042: glass_quarter 16
+    400044: glass_quarter 17
+    400046: glass_quarter 18
+    400048: glass_quarter 19
+    400050: glass_quarter 2
+    400052: glass_quarter 20
+    400054: glass_quarter 21
+    400056: glass_quarter 22
+    400058: glass_quarter 23
+    400060: glass_quarter 3
+    400062: glass_quarter 4
+    400064: glass_quarter 5
+    400066: glass_quarter 6
+    400068: glass_quarter 7
+    400070: glass_quarter 8
+    400072: glass_quarter 9
+    400074: Group 1
+    400076: Group 3
+    400078: Group 30
+    400080: Group 5
+    400082: Group 51
+    400084: Group 53
+    400086: Group 55
+    400088: Group 57
+    400090: Group 59
+    400092: Group 61
+    400094: Group 7
+    400096: Group 72
+    400098: Group 74
+    400100: Group 80
+    400102: Group 9
+    400104: //RootNode
+    400106: Line155
+    400108: Line155 1
+    400110: Line155 2
+    400112: Line155 3
+    400114: Line156
+    400116: Line156 1
+    400118: Plate lg
+    400120: Plate lg 1
+    400122: Plate lg 10
+    400124: Plate lg 11
+    400126: Plate lg 12
+    400128: Plate lg 13
+    400130: Plate lg 14
+    400132: Plate lg 15
+    400134: Plate lg 16
+    400136: Plate lg 17
+    400138: Plate lg 18
+    400140: Plate lg 19
+    400142: Plate lg 2
+    400144: Plate lg 3
+    400146: Plate lg 4
+    400148: Plate lg 5
+    400150: Plate lg 6
+    400152: Plate lg 7
+    400154: Plate lg 8
+    400156: Plate lg 9
+    2300000: coffee maker
+    2300002: Coffee Percolator
+    2300004: Countertop_Toaster_Curved
+    2300006: countertp_blender_half
+    2300008: countertp_blender_half 1
+    2300010: glass_quarter
+    2300012: glass_quarter 1
+    2300014: glass_quarter 10
+    2300016: glass_quarter 11
+    2300018: glass_quarter 12
+    2300020: glass_quarter 13
+    2300022: glass_quarter 14
+    2300024: glass_quarter 15
+    2300026: glass_quarter 16
+    2300028: glass_quarter 17
+    2300030: glass_quarter 18
+    2300032: glass_quarter 19
+    2300034: glass_quarter 2
+    2300036: glass_quarter 20
+    2300038: glass_quarter 21
+    2300040: glass_quarter 22
+    2300042: glass_quarter 23
+    2300044: glass_quarter 3
+    2300046: glass_quarter 4
+    2300048: glass_quarter 5
+    2300050: glass_quarter 6
+    2300052: glass_quarter 7
+    2300054: glass_quarter 8
+    2300056: glass_quarter 9
+    2300058: Group 1
+    2300060: Group 3
+    2300062: Group 5
+    2300064: Group 51
+    2300066: Group 53
+    2300068: Group 55
+    2300070: Group 57
+    2300072: Group 59
+    2300074: Group 61
+    2300076: Group 7
+    2300078: Group 72
+    2300080: Group 80
+    2300082: Line155
+    2300084: Line155 1
+    2300086: Line155 2
+    2300088: Line155 3
+    2300090: Line156
+    2300092: Line156 1
+    2300094: Plate lg
+    2300096: Plate lg 1
+    2300098: Plate lg 10
+    2300100: Plate lg 11
+    2300102: Plate lg 12
+    2300104: Plate lg 13
+    2300106: Plate lg 14
+    2300108: Plate lg 15
+    2300110: Plate lg 16
+    2300112: Plate lg 17
+    2300114: Plate lg 18
+    2300116: Plate lg 19
+    2300118: Plate lg 2
+    2300120: Plate lg 3
+    2300122: Plate lg 4
+    2300124: Plate lg 5
+    2300126: Plate lg 6
+    2300128: Plate lg 7
+    2300130: Plate lg 8
+    2300132: Plate lg 9
+    3300000: coffee maker
+    3300002: Coffee Percolator
+    3300004: Countertop_Toaster_Curved
+    3300006: countertp_blender_half
+    3300008: countertp_blender_half 1
+    3300010: glass_quarter
+    3300012: glass_quarter 1
+    3300014: glass_quarter 10
+    3300016: glass_quarter 11
+    3300018: glass_quarter 12
+    3300020: glass_quarter 13
+    3300022: glass_quarter 14
+    3300024: glass_quarter 15
+    3300026: glass_quarter 16
+    3300028: glass_quarter 17
+    3300030: glass_quarter 18
+    3300032: glass_quarter 19
+    3300034: glass_quarter 2
+    3300036: glass_quarter 20
+    3300038: glass_quarter 21
+    3300040: glass_quarter 22
+    3300042: glass_quarter 23
+    3300044: glass_quarter 3
+    3300046: glass_quarter 4
+    3300048: glass_quarter 5
+    3300050: glass_quarter 6
+    3300052: glass_quarter 7
+    3300054: glass_quarter 8
+    3300056: glass_quarter 9
+    3300058: Group 1
+    3300060: Group 3
+    3300062: Group 5
+    3300064: Group 51
+    3300066: Group 53
+    3300068: Group 55
+    3300070: Group 57
+    3300072: Group 59
+    3300074: Group 61
+    3300076: Group 7
+    3300078: Group 72
+    3300080: Group 80
+    3300082: Line155
+    3300084: Line155 1
+    3300086: Line155 2
+    3300088: Line155 3
+    3300090: Line156
+    3300092: Line156 1
+    3300094: Plate lg
+    3300096: Plate lg 1
+    3300098: Plate lg 10
+    3300100: Plate lg 11
+    3300102: Plate lg 12
+    3300104: Plate lg 13
+    3300106: Plate lg 14
+    3300108: Plate lg 15
+    3300110: Plate lg 16
+    3300112: Plate lg 17
+    3300114: Plate lg 18
+    3300116: Plate lg 19
+    3300118: Plate lg 2
+    3300120: Plate lg 3
+    3300122: Plate lg 4
+    3300124: Plate lg 5
+    3300126: Plate lg 6
+    3300128: Plate lg 7
+    3300130: Plate lg 8
+    3300132: Plate lg 9
+    4300000: Mesh Group 1
+    4300002: Mesh Group 3
+    4300004: Mesh Plate lg
+    4300006: Mesh Group 57
+    4300008: Mesh Group 59
+    4300010: Mesh countertp_blender_half
+    4300012: Mesh Line155
+    4300014: Mesh Countertop_Toaster_Curved
+    4300016: Mesh Group 72
+    4300018: Mesh Coffee Percolator
+    4300020: Mesh coffee maker
+    4300022: Mesh Group 80
+    4300024: Mesh Line156
+    4300026: Mesh glass_quarter
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

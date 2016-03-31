@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 21dd4ae9648a9c34bae5b2c8193c3050
+timeCreated: 1459018223
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f00000010000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 507ddfa918d4d3f76def65770a5aea57
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 1.5933088, y: 1.6513575, z: -1.9913843}
+      lookAt: {x: 0.28779778, y: 0.72310495, z: 0.21127419}
+      up: {x: -0.17377609, y: 0.9401269, z: 0.29319504}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: fridge control
+    100002: GE fridge body
+    100004: GE Fridge door
+    100006: GE fridge leg
+    100008: GE fridge leg 1
+    100010: GE fridge leg 2
+    100012: GE fridge leg 3
+    100014: GE round monitor top
+    100016: //RootNode
+    400000: fridge control
+    400002: GE fridge body
+    400004: GE Fridge door
+    400006: GE fridge leg
+    400008: GE fridge leg 1
+    400010: GE fridge leg 2
+    400012: GE fridge leg 3
+    400014: GE round monitor top
+    400016: //RootNode
+    2300000: fridge control
+    2300002: GE fridge body
+    2300004: GE Fridge door
+    2300006: GE fridge leg
+    2300008: GE fridge leg 1
+    2300010: GE fridge leg 2
+    2300012: GE fridge leg 3
+    2300014: GE round monitor top
+    3300000: fridge control
+    3300002: GE fridge body
+    3300004: GE Fridge door
+    3300006: GE fridge leg
+    3300008: GE fridge leg 1
+    3300010: GE fridge leg 2
+    3300012: GE fridge leg 3
+    3300014: GE round monitor top
+    4300000: Mesh GE fridge leg
+    4300002: Mesh GE fridge body
+    4300004: Mesh GE Fridge door
+    4300006: Mesh GE round monitor top
+    4300008: Mesh fridge control
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

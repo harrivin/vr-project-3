@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 6743f64127913364c8eca24d2af02682
+timeCreated: 1459230393
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 7ca175ab94d0aa1859ca353e3cc38fbe
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -2.9780278, y: 2.2064865, z: -3.492084}
+      lookAt: {x: -1.1517979, y: 1.2933714, z: -1.6658541}
+      up: {x: 0.23570226, y: 0.94280905, z: 0.23570226}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Burner
+    100004: Burner 1
+    100006: Burner 2
+    100008: Burner Small
+    100010: Burner Small 1
+    100012: Burner Small 2
+    100014: Cabinetry
+    100016: Door
+    100018: Door 1
+    100020: Glass Frame
+    100022: Glass Frame 1
+    100024: Grate
+    100026: Handle
+    100028: Handle 1
+    100030: Pipe Connections
+    100032: Supporting Leg
+    100034: Supporting Leg 1
+    100036: Supporting Leg 2
+    100038: Supporting Leg 3
+    100040: Supporting Leg 4
+    100042: Supporting Leg 5
+    100044: Switch Knob
+    100046: Switch Knob 1
+    100048: Switch Knob 2
+    100050: Switch Knob 3
+    100052: Switch Knob 4
+    100054: Switch Knob 5
+    100056: Switch Knob 6
+    100058: Switch Knob 7
+    100060: Switch Knob 8
+    400000: //RootNode
+    400002: Burner
+    400004: Burner 1
+    400006: Burner 2
+    400008: Burner Small
+    400010: Burner Small 1
+    400012: Burner Small 2
+    400014: Cabinetry
+    400016: Door
+    400018: Door 1
+    400020: Glass Frame
+    400022: Glass Frame 1
+    400024: Grate
+    400026: Handle
+    400028: Handle 1
+    400030: Pipe Connections
+    400032: Supporting Leg
+    400034: Supporting Leg 1
+    400036: Supporting Leg 2
+    400038: Supporting Leg 3
+    400040: Supporting Leg 4
+    400042: Supporting Leg 5
+    400044: Switch Knob
+    400046: Switch Knob 1
+    400048: Switch Knob 2
+    400050: Switch Knob 3
+    400052: Switch Knob 4
+    400054: Switch Knob 5
+    400056: Switch Knob 6
+    400058: Switch Knob 7
+    400060: Switch Knob 8
+    2300000: Burner
+    2300002: Burner 1
+    2300004: Burner 2
+    2300006: Burner Small
+    2300008: Burner Small 1
+    2300010: Burner Small 2
+    2300012: Cabinetry
+    2300014: Door
+    2300016: Door 1
+    2300018: Glass Frame
+    2300020: Glass Frame 1
+    2300022: Grate
+    2300024: Handle
+    2300026: Handle 1
+    2300028: Pipe Connections
+    2300030: Supporting Leg
+    2300032: Supporting Leg 1
+    2300034: Supporting Leg 2
+    2300036: Supporting Leg 3
+    2300038: Supporting Leg 4
+    2300040: Supporting Leg 5
+    2300042: Switch Knob
+    2300044: Switch Knob 1
+    2300046: Switch Knob 2
+    2300048: Switch Knob 3
+    2300050: Switch Knob 4
+    2300052: Switch Knob 5
+    2300054: Switch Knob 6
+    2300056: Switch Knob 7
+    2300058: Switch Knob 8
+    3300000: Burner
+    3300002: Burner 1
+    3300004: Burner 2
+    3300006: Burner Small
+    3300008: Burner Small 1
+    3300010: Burner Small 2
+    3300012: Cabinetry
+    3300014: Door
+    3300016: Door 1
+    3300018: Glass Frame
+    3300020: Glass Frame 1
+    3300022: Grate
+    3300024: Handle
+    3300026: Handle 1
+    3300028: Pipe Connections
+    3300030: Supporting Leg
+    3300032: Supporting Leg 1
+    3300034: Supporting Leg 2
+    3300036: Supporting Leg 3
+    3300038: Supporting Leg 4
+    3300040: Supporting Leg 5
+    3300042: Switch Knob
+    3300044: Switch Knob 1
+    3300046: Switch Knob 2
+    3300048: Switch Knob 3
+    3300050: Switch Knob 4
+    3300052: Switch Knob 5
+    3300054: Switch Knob 6
+    3300056: Switch Knob 7
+    3300058: Switch Knob 8
+    4300000: Mesh Pipe Connections
+    4300002: Mesh Supporting Leg
+    4300004: Mesh Cabinetry
+    4300006: Mesh Door
+    4300008: Mesh Glass Frame
+    4300010: Mesh Handle
+    4300012: Mesh Switch Knob
+    4300014: Mesh Grate
+    4300016: Mesh Burner Small
+    4300018: Mesh Burner
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
